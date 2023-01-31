@@ -12,8 +12,6 @@ SO THAT I can optimize my vacation time
 
 ```
 GIVEN I am a traveler
-WHEN I open the travel planner
-THEN I am presented with a search bar to input my destination
 WHEN I input my destination
 THEN I am presented with that location's 5 day weather forecast
 WHEN I select an option from the dropdown
@@ -23,3 +21,5 @@ THEN the map moves to the corresponding pin
 WHEN I revisit the page
 THEN I see the destinations I've previously searched
 ```
+
+## Screenshot
